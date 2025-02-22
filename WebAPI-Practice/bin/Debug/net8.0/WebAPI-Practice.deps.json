@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WebAPI-Practice/1.0.0": {
+        "runtime": {
+          "WebAPI-Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebAPI-Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
