@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-namespace WebApplication1;
+namespace WebAPI_Practice;
 //5_1-目標：透過Json，傳入學生與老師資料
 public class Student
 {

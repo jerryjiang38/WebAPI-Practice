@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-namespace WebApplication1;
+namespace WebAPI_Practice;
 //2-目標：建立一個OrderController，提供GetAllOrder、Add、SetNumber、RemoveItem函數
 [Route("[controller]/[action]")] //("[Controller的名稱]/[函數名稱]")
 public class OrderController

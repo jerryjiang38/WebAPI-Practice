@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-namespace WebApplication1;
+namespace WebAPI_Practice;
 //8-目標：接收Json，並且手動設定HttpStatusCode
 public class Content
 {

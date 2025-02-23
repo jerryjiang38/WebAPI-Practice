@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-namespace WebApplication1;
+namespace WebAPI_Practice;
 //4_2-目標：使用Model，回傳註冊成功的訊息
 public class UserModel
 {

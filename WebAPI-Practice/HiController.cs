@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-namespace WebApplication1;
+namespace WebAPI_Practice;
 //6-目標：回傳Html
 [Route("[controller]")]
 public class HiController : ControllerBase

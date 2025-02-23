@@ -1,6 +1,6 @@
 ﻿using System.Net;
 using Microsoft.AspNetCore.Mvc;
-namespace WebApplication1;
+namespace WebAPI_Practice;
 //7-目標：回傳HttpStatusCode
 [Route("[controller]/[action]")]
 public class StatusController: ControllerBase

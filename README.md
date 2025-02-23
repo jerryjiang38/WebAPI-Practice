@@ -15,4 +15,5 @@ WebAPI-Practice
 ### HiController 6 - 目標：回傳Html
 ### StatusController 7 - 目標：回傳HttpStatusCode
 ### CreateController 8 - 目標：接收Json，並且手動設定HttpStatusCode
-### ValidateController 9 - 目標：使用ModelState驗證 
+### ValidateController 9 - 目標：使用ModelState驗證
+### CheckController 10 - 目標：使用Dependency Injection調用CheckService
