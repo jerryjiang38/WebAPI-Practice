@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-namespace WebApplication1;
+namespace WebAPI_Practice;
 //4-目標：使用Parameters，回傳兩個數字相加的結果
 public class AddController
 {

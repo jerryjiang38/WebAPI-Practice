@@ -24,3 +24,10 @@ C:\Users\jerry.jiang38\Documents\GitHub\WebAPI-Practice\WebAPI-Practice\obj\Debu
 C:\Users\jerry.jiang38\Documents\GitHub\WebAPI-Practice\WebAPI-Practice\obj\Debug\net8.0\WebAPI-Practice.pdb
 C:\Users\jerry.jiang38\Documents\GitHub\WebAPI-Practice\WebAPI-Practice\obj\Debug\net8.0\WebAPI-Practice.genruntimeconfig.cache
 C:\Users\jerry.jiang38\Documents\GitHub\WebAPI-Practice\WebAPI-Practice\obj\Debug\net8.0\ref\WebAPI-Practice.dll
+C:\Users\jerry.jiang38\Documents\GitHub\WebAPI-Practice\WebAPI-Practice\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jerry.jiang38\Documents\GitHub\WebAPI-Practice\WebAPI-Practice\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jerry.jiang38\Documents\GitHub\WebAPI-Practice\WebAPI-Practice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jerry.jiang38\Documents\GitHub\WebAPI-Practice\WebAPI-Practice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jerry.jiang38\Documents\GitHub\WebAPI-Practice\WebAPI-Practice\obj\Debug\net8.0\WebAPI-Practice.csproj.AssemblyReference.cache
+C:\Users\jerry.jiang38\Documents\GitHub\WebAPI-Practice\WebAPI-Practice\obj\Debug\net8.0\WebAPI-Practice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jerry.jiang38\Documents\GitHub\WebAPI-Practice\WebAPI-Practice\obj\Debug\net8.0\WebAPI-P.FA5F9161.Up2Date

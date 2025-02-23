@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-namespace WebApplication1;
+namespace WebAPI_Practice;
 //5_3-目標：使用多種不同Json來源傳入
 public class Model1
 {
